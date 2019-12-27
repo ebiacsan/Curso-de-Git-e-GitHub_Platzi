@@ -1,8 +1,8 @@
 # Em 2019 li poucos livros, entre eles:
 
 Krypton <br/>
-Artemis Fowl
-Ninho de Fogo
-Neuromancer
-Labirinto dos Ossos
-O Nome do Vento
+Artemis Fowl <br/>
+Ninho de Fogo <br/>
+Neuromancer <br/>
+Labirinto dos Ossos <br/>
+O Nome do Vento <br/>
